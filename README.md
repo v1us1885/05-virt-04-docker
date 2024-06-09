@@ -174,3 +174,6 @@ docker compose up -d
 ```
 ![http-request](https://github.com/v1us1885/05-virt-04-docker/blob/main/http-request.png)
 ![test-sql](https://github.com/v1us1885/05-virt-04-docker/blob/main/test-sql.png)
+
+## Решение 6
+![docker_cp](https://github.com/v1us1885/05-virt-04-docker/blob/main/docker_cp.png)
