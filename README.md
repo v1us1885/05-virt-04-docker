@@ -158,4 +158,4 @@ networks:
         - subnet: 172.20.0.0/24
 
 ```
-![curl]()
+![curl](https://github.com/v1us1885/05-virt-04-docker/blob/main/curl.png)
